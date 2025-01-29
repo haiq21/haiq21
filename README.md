@@ -3,7 +3,8 @@
 🔭 Bioinformatic Engineering Student<br/>
 📖 Studying at UNSW 
 
-![Haiqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=haiq21&show_icons=true&theme=date_night)
+![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/75ccbfe7-4a6d-4f70-91fe-d94b57fe9b71)
+
 <!--
 **haiq21/haiq21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
