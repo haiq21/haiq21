@@ -1,9 +1,8 @@
-## Hi I'm Haiqa! 🌸
+## Hi I'm Haiqa! <img align="right" src="https://github.com/user-attachments/assets/5e08db9f-96df-446b-94ae-4fc9b51c675a" width="50" height="50"/>
 
-🔭 Bioinformatic Engineering Student<br/>
+🔭 Bioinformatic Engineering Student <br/>
 📖 Studying at UNSW <br/>
 
-![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/75ccbfe7-4a6d-4f70-91fe-d94b57fe9b71)
 
 <!--
 **haiq21/haiq21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
