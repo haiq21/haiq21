@@ -1,7 +1,7 @@
 ## Hi I'm Haiqa! 🌸
 
 🔭 Bioinformatic Engineering Student<br/>
-📖 Studying at UNSW 
+📖 Studying at UNSW <br/>
 
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/75ccbfe7-4a6d-4f70-91fe-d94b57fe9b71)
 
