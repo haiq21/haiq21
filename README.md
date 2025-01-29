@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi I'm Haiqa! 🌸
 
+🔭 Bioinformatic Engineering Student<br/>
+📖 Studying at UNSW 
+
+![Haiqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=haiq21&show_icons=true&theme=date_night)
 <!--
 **haiq21/haiq21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
